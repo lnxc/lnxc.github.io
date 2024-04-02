@@ -1,2 +1,2 @@
-# lnxc.github.io
-lnxc的个人网站
+# lnxc的个人网站
+QQ: 823538626
